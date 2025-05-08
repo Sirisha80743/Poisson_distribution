@@ -1,6 +1,7 @@
-### Developed By : SIRISHA P
-### Register Number : 212224040321
-### Department : B.E (CSE)
+ Developed By : SIRISHA P
+ 
+ Register Number : 212224040321
+
 # Fitting Poisson  distribution
 # Aim : 
 
@@ -32,10 +33,6 @@ The Poisson distribution is the discrete probability distribution of the number 
 ![image](https://user-images.githubusercontent.com/103921593/230282876-f4a5afbf-cac1-4648-a1b0-c78840638a8e.png)
 
 # Program :
-
-developed by : SIRISHA P
-
-Register Number : 212224040321
 
  ```
 import numpy as np
